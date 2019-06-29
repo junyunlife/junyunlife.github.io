@@ -45,21 +45,10 @@
 
 
 ## 设计相关
-	"deviantart.com",
-
-
-
-
-
-	
-
-
-
-	
+	"deviantart.com",	
 	"proxifier.com",
 	"dnscrypt.org",
 	"atgfw.org",
-
 	"whatismyip.com",
 	"goagentplus.com",
 	"shadowsocks.org",
@@ -67,22 +56,14 @@
 	"getlantern.org",
 	"furbo.org",
 	"goagentx.com",
-	
 	"sourceforge.net",
 	"torproject.org",
 	"hideme.io",
-	
 	"shadowx.work",
-
 	"astrill.com",
-
-
-
-
 	"tumblr.com", 
 	"flickr.com",
 	"imgur.com",
-
 	"evozi.com",
 	"live.com",
 	"1drv.com",
