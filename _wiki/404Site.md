@@ -1,3 +1,12 @@
+---
+layout: wiki
+title: 404页面
+categories: Recommends
+description: 不需要自由
+keywords: 防火墙
+---
+
+
 # 记录一些我从来没有上过去的网站
 
 
