@@ -9,11 +9,24 @@ keywords: 防火墙
 
 # 记录一些我从来没有上过去的网站
 
-
 ## 购物
+
+```
   "amazon.co.jp",
+```
+
 ## 影音娱乐
+
+```
   "soundcloud.com",
+  "youtube.com", 
+	"youtu.be",
+	//iTuens
+  "mzstatic.com",
+  "itunes.apple.com",
+  "twitch.tv",
+  "youtube-nocookie.com",
+```
 
 ## 社交
 	"facebook.net",
@@ -22,6 +35,13 @@ keywords: 防火墙
 	"fb.me", 
 	"cdninstagram.com",
 	"fbcdn.net", 
+	//Twitter
+	"twitter.com",  
+	"t.co", 
+	"twimg.com",
+	"ytimg.com",
+	"telegram.org",
+	"telegram.me",
 
 ## 技术开发
     "google",
@@ -29,27 +49,60 @@ keywords: 防火墙
     "mozilla.org",
     "vpngate.net",
     "cloud.google.com",
-	"cloudusersettings-pa.clients6.google.com",
-	"cloudusersettings-pa.clients6.google.com",
+    "cloudusersettings-pa.clients6.google.com",
+    "cloudusersettings-pa.clients6.google.com",
     "domains.google.com",
-	"cloudusersettings-pa.clients6.google.com",
-	"googleapis.com",
+    "cloudusersettings-pa.clients6.google.com",
+    "googleapis.com",
     "account.jetbrains",
     "jcenter.bintray.com",
     "reddit.com",
     "disqus.com",
-	"disquscdn.com",
-	"android.com",
-	"greatfire.org",
-	"drive.google.com",
+    "disquscdn.com",
+    "android.com",
+    "greatfire.org",
+    "drive.google.com",
     "w3schools.com",
-	"voachinese.com",
-	"airdroid.com",
-	"v2raypro.com",
-	"tox.im",
+    "voachinese.com",
+    "airdroid.com",
+    "v2raypro.com",
+    "tox.im",
     "github.com",
-  	"v2ray.com",
-
+    "v2ray.com",
+    //Google
+    "gmail.com", 
+    "googlemail.com",
+    "mailchimp.com", 
+    "mail-archive.com", 
+    "google.com", 
+    "goo.gl",
+    "google.com.hk", 
+    "google.com.tw", 
+    "google.co.jp",
+    "googlecode.com",
+    "googleapis.com", 
+    "ggpht.com",
+    //Dropbox
+    "dropbox.com",
+    "dropboxusercontent.com",
+    "dropboxwiki.com",
+    //cdn
+    "cloudfront.net",
+    "colwiz.com",
+    "booth.pm",
+    "wikipedia.org",
+    "pixiv.net",
+    "googlevideo.com",
+    "sketchup.com",
+    "gstatic.com",
+    "google-analytics.com",
+    "googleusercontent.com",
+    "chrome.com", 
+    "g.co", 
+    "googledrive.com", 
+    "googletagmanager.com", 
+    "googleadservices.com",
+    "abc.xyz",
 ## 小孩子不要看
 
 
@@ -77,7 +130,6 @@ keywords: 防火墙
 	"live.com",
 	"1drv.com",
 	"evernote.com",
-
 	//blog
 	"wp.com",
 	"yam.com",
@@ -93,7 +145,6 @@ keywords: 防火墙
 	"blogger.com",
 	"hexo.io",
 	"medium.com",
-
 	//GeneralNews
 	"rfi.my",
 	"rfi.fr",
@@ -109,10 +160,9 @@ keywords: 防火墙
 	"bbc.com",
 	"on-match.com",
 	"solidot.org",
-
 	//TechNews
 	"engadget.com", 
-
+	
 	//Network
 	"amazonaws.com",
 	"fastly.net",
@@ -122,13 +172,13 @@ keywords: 防火墙
 	"d.pr",
 	"ow.ly",
 	"ift.tt",
-
+	
 	"nateparrott.com",
 	
 	"stacksocial.com",
 	"feedly.com",
 	"acgtea.com",
-
+	
 	//academy and develop
 	"ieee.org",
 	"mathoverflow.net",
@@ -138,7 +188,7 @@ keywords: 防火墙
 	"golang.org",
 	"netspeak.org",
 	"endreslab.com",
-
+	
 	//Universities
 	"illinois.edu",
 	"berkeley.edu",
@@ -147,18 +197,14 @@ keywords: 防火墙
 	"rochester.edu",
 	"purdue.edu",
 	"technolutions.net",
-
 	"netflix.com",
-
 	//Online Dictionary
 	"ldoceonline.com",
 	"freedicts.com",
-
 	//Softwares
 	"formacx.com",
 	"trionworlds.com",
 	"line.me",
-
 	//otaku
 	"e-hentai.org",
 	"nhentai.net",
@@ -170,62 +216,3 @@ keywords: 防火墙
 	"nyaa.se",
 	"share.dmhy.org",
 	"loli.us",
-
-	//facebook
-
-
-	"booth.pm",
-
-	"telegram.org",
-	"telegram.me",
-
-	"wikipedia.org",
-	"pixiv.net",
-	"twitch.tv",
-
-	//Twitter
-	"twitter.com",  
-	"t.co", 
-	"twimg.com",
-
-	//Google
-	"gmail.com", 
-	"googlemail.com",
-	"mailchimp.com", 
-	"mail-archive.com", 
-	"google.com", 
-	"goo.gl",
-	"google.com.hk", 
-	"google.com.tw", 
-	"google.co.jp",
-	"googlecode.com",
-	"googleapis.com", 
-	"ggpht.com",
-	"youtube.com", 
-	"youtu.be",
-	"ytimg.com",
-	"youtube-nocookie.com",
-	"googlevideo.com",
-	"sketchup.com",
-	"gstatic.com",
-	"google-analytics.com",
-	"googleusercontent.com",
-	"chrome.com", 
-	"g.co", 
-	"googledrive.com", 
-	"googletagmanager.com", 
-	"googleadservices.com",
-	"abc.xyz",
-
-	//Dropbox
-	"dropbox.com",
-	"dropboxusercontent.com",
-	"dropboxwiki.com",
-
-	//iTuens
-	"mzstatic.com",
-	"itunes.apple.com",
-
-	//cdn
-	"cloudfront.net",
-	"colwiz.com"
