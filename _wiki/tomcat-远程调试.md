@@ -13,7 +13,6 @@ keywords: JAVA, Tomcat
 ## 使用场景: 微信小程序 等 本地环境很难绕过权限测试的时候。
 
 
-
 ## 一、 Tomcat 配置
 
 1） : 编辑  bin 目录下 catalina.sh 如果是 windos 系统 请编辑catalina.bat 。
